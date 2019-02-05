@@ -5,4 +5,4 @@ functions:
   asciiweather:
     lang: dockerfile
     handler: ./asciiweather
-    image: asciiweather:latest
+    image: riverron/asciiweather:latest
