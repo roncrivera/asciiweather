@@ -1,1 +1,3 @@
 # asciiweather
+
+OpenFaaS weather function
